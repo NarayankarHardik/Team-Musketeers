@@ -1,6 +1,5 @@
-(https://github.com/user-attachments/files/33898884/README_GitHub_GlitchVerse.md)# Team-Musketeers
-GlitchVerse (single player)
-[Uploading README_GitHub_GlitchVer# GLITCHVERSE: The World Is Broken
+[README_GitHub_GlitchVerse.md](https://github.com/user-attachments/files/33898919/README_GitHub_GlitchVerse.md)
+# GLITCHVERSE: The World Is Broken
 
 **A single-player puzzle-platformer built with Godot 4.x and GDScript.**  
 **Challenge track:** PS01 — Single-Player Puzzle & Adventure  
@@ -134,4 +133,3 @@ We want players to feel clever for solving a route, not just fast for getting th
 Potential next improvements include in-editor playtesting and balance passes, more distinct set-piece encounters, checkpoints placed according to difficulty, accessibility options for effects and controls, additional sound/music, and broader testing across window sizes and hardware.
 
 > **Submission note:** Before submitting, add your team members, screenshots or a short gameplay GIF, and only describe tests as completed after running them in the Godot editor.
-se.md…]()
